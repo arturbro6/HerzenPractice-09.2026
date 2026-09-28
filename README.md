@@ -8,16 +8,16 @@
 
 | № | Задание | Материал | План | Фактически |
 |---|---|---|---|---|
-| 1.1 | Анализ деятельности организации и требований | [Анализ предметной области](materials/01-domain-and-requirements.md) | 01.09–03.09 | 03.09.2026 |
-| 1.2 | Обзор программных средств | [Go, Visual Studio Code, Git и командная строка](materials/02-tools-overview.md) | 04.09–06.09 | 06.09.2026 |
-| 1.3 | Подготовка рабочего места | [Настройка среды разработки](materials/03-environment-setup.md) | 07.09–09.09 | 09.09.2026 |
-| 2.1 | Проектирование приложения | [Структура приложения](materials/04-application-design.md) | 10.09–12.09 | 12.09.2026 |
-| 2.2 | Добавление и просмотр задач | [Описание операций](materials/05-add-and-view.md) | 13.09–15.09 | 15.09.2026 |
-| 2.3 | Удаление и завершение задач | [Описание операций](materials/06-delete-and-complete.md) | 16.09–18.09 | 18.09.2026 |
-| 2.4 | Модульные тесты | [Описание тестирования](materials/07-testing.md) | 19.09–21.09 | 21.09.2026 |
-| 2.5 | Работа с Git | [Порядок работы с версиями](materials/08-git-workflow.md) | 22.09–23.09 | 23.09.2026 |
-| 2.6 | Руководство пользователя | [Запуск и команды приложения](materials/09-user-guide.md) | 24.09–25.09 | 25.09.2026 |
-| 2.7 | Итог и дальнейшее развитие | [Аналитическая записка](materials/10-development-options.md) | 26.09–27.09 | 27.09.2026 |
+| 1.1 | Анализ деятельности организации и требований | [PDF](materials/01-domain-and-requirements.pdf) · [DOCX](materials/01-domain-and-requirements.docx) | 01.09–03.09 | 03.09.2026 |
+| 1.2 | Обзор программных средств | [PDF](materials/02-tools-overview.pdf) · [DOCX](materials/02-tools-overview.docx) | 04.09–06.09 | 06.09.2026 |
+| 1.3 | Подготовка рабочего места | [PDF](materials/03-environment-setup.pdf) · [DOCX](materials/03-environment-setup.docx) | 07.09–09.09 | 09.09.2026 |
+| 2.1 | Проектирование приложения | [PDF](materials/04-application-design.pdf) · [DOCX](materials/04-application-design.docx) | 10.09–12.09 | 12.09.2026 |
+| 2.2 | Добавление и просмотр задач | [PDF](materials/05-add-and-view.pdf) · [DOCX](materials/05-add-and-view.docx) | 13.09–15.09 | 15.09.2026 |
+| 2.3 | Удаление и завершение задач | [PDF](materials/06-delete-and-complete.pdf) · [DOCX](materials/06-delete-and-complete.docx) | 16.09–18.09 | 18.09.2026 |
+| 2.4 | Модульные тесты | [PDF](materials/07-testing.pdf) · [DOCX](materials/07-testing.docx) | 19.09–21.09 | 21.09.2026 |
+| 2.5 | Работа с Git | [PDF](materials/08-git-workflow.pdf) · [DOCX](materials/08-git-workflow.docx) | 22.09–23.09 | 23.09.2026 |
+| 2.6 | Руководство пользователя | [PDF](materials/09-user-guide.pdf) · [DOCX](materials/09-user-guide.docx) | 24.09–25.09 | 25.09.2026 |
+| 2.7 | Итог и дальнейшее развитие | [PDF](materials/10-development-options.pdf) · [DOCX](materials/10-development-options.docx) | 26.09–27.09 | 27.09.2026 |
 | — | Отчёт и электронное портфолио | [Документы практики](documents/) | 28.09 | 28.09.2026 |
 
 ## Исходный код
@@ -28,9 +28,9 @@
 
 ## Документы практики
 
-- [Индивидуальное задание](documents/Борисов_Задание_на_учебную_практику_2026.docx)
-- [Отчёт](documents/Борисов_Отчет_по_учебной_практике_2026.docx)
-- [Характеристика](documents/Борисов_Характеристика_по_учебной_практике_2026.docx)
+- Индивидуальное задание: [PDF](documents/Борисов_Задание_на_учебную_практику_2026.pdf) · [DOCX](documents/Борисов_Задание_на_учебную_практику_2026.docx)
+- Отчёт: [PDF](documents/Борисов_Отчет_по_учебной_практике_2026.pdf) · [DOCX](documents/Борисов_Отчет_по_учебной_практике_2026.docx)
+- Характеристика: [PDF](documents/Борисов_Характеристика_по_учебной_практике_2026.pdf) · [DOCX](documents/Борисов_Характеристика_по_учебной_практике_2026.docx)
 
 ## Статус проектов
 
